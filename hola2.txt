@@ -1,2 +1,2 @@
 Estoy aprendiendo como funciona Git.
-Estoy trabajando desde la rama feature/saludo.
+Mensaje creado desde feature/conflicto
