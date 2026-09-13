@@ -1,1 +1,2 @@
 estoy aprendiendo git
+Este cambio fue realizado desde GitHub.
